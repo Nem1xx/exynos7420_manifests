@@ -16,5 +16,5 @@
     <project path="hardware/samsung_slsi/exynos5" name="samsungexynos7420/android_hardware_samsung_slsi-linaro_exynos5" remote="github" revision="lineage-19.1" />
     <project path="hardware/samsung_slsi/openmax" name="samsungexynos7420/android_hardware_samsung_slsi-linaro_openmax" remote="github" revision="lineage-19.1" />
     <project path="hardware/samsung_slsi/exynos7420" name="samsungexynos7420/android_hardware_samsung_slsi-linaro_graphics" remote="github" revision="lineage-19.1" />
-	<project path="hardware/samsung_slsi/exynos7420" name="samsungexynos7420/android_hardware_samsung_slsi-linaro_config" remote="github" revision="lineage-19.1" />
+
 </manifest>
